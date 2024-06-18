@@ -51,10 +51,6 @@ logs/
 
 # VS Code
 .vscode/
-
-# Local configuration file
-config.json
-
 # Compiled class files
 *.class
 
